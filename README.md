@@ -11,4 +11,4 @@
 
 ---
 
-![Filippo's GitHub stats](https://github-readme-stats.vercel.app/api?username=filippomb&show_icons=true&theme=tokyonight)
+![Filippo's GitHub stats](https://github-readme-stats.vercel.app/api?username=filippomb&show_icons=true&theme=calm)
