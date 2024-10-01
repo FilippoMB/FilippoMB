@@ -7,7 +7,7 @@
 - 👨‍🏫 I'm an associate professor at UiT the Arctic University of Norway
 - 🔎 I do research in ML for time series and graphs
 - 🌍 I also work on remote sensing applications
-- 🔓 I mostly work with Python and I try to open-source most of my work
+- 🔓 I mostly work with Python and I try to open-source all my work
 
 ---
 
