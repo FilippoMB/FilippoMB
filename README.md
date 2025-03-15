@@ -44,13 +44,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Time-Series-Cluster-Kernel&theme=calm&v=2)](https://github.com/FilippoMB/Time-Series-Cluster-Kernel)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Bidirectional-Deep-readout-Echo-State-Network&theme=calm&v=1)](https://github.com/FilippoMB/Bidirectional-Deep-readout-Echo-State-Network)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Learning-representations-for-multivariate-time-series-with-missing-data&theme=calm&v=1)](https://github.com/FilippoMB/Learning-representations-for-multivariate-time-series-with-missing-data)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Deep-Kernelized-Auto-Encoder-with-Time-series-Cluster-Kernel&theme=calm&v=3)](https://github.com/FilippoMB/Deep-Kernelized-Auto-Encoder-with-Time-series-Cluster-Kernel)
 
 
 ### Other
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Recognition-of-polar-lows-in-Sentinel-1-SAR-images-with-deep-learning&theme=calm&v=2)](https://github.com/FilippoMB/Recognition-of-polar-lows-in-Sentinel-1-SAR-images-with-deep-learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Detecting-and-interpreting-faults-in-vulnerable-power-grids-with-machine-learning&theme=calm&v=3)](https://github.com/FilippoMB/Detecting-and-interpreting-faults-in-vulnerable-power-grids-with-machine-learning)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Deep-Kernelized-Auto-Encoder-with-Time-series-Cluster-Kernel&theme=calm&v=3)](https://github.com/FilippoMB/Deep-Kernelized-Auto-Encoder-with-Time-series-Cluster-Kernel)
 
 ---
 
