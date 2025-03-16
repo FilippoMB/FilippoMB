@@ -33,10 +33,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Simplifying-Clustering-with-Graph-Neural-Networks&theme=calm&v=2)](https://github.com/FilippoMB/Simplifying-Clustering-with-Graph-Neural-Networks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Total-variation-graph-neural-networks&theme=calm&v=2)](https://github.com/FilippoMB/Total-variation-graph-neural-networks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=The-expressive-power-of-pooling-in-GNNs&theme=calm&v=2)](https://github.com/FilippoMB/The-expressive-power-of-pooling-in-GNNs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Pyramidal-Reservoir-Graph-Neural-Networks&theme=calm&v=2)](https://github.com/FilippoMB/Pyramidal-Reservoir-Graph-Neural-Networks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Variational-Graph-Auto-encoders-Tensorflow-2-Spektral-&theme=calm&v=1)](https://github.com/FilippoMB/Variational-Graph-Auto-encoders-Tensorflow-2-Spektral-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGMLGroup&repo=Bayesian-Nonparametric-Graph-Pooling&theme=calm&v=2)](https://github.com/NGMLGroup/Bayesian-Nonparametric-Graph-Pooling)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGMLGroup&repo=MaxCutPool&theme=calm&v=1)](https://github.com/NGMLGroup/MaxCutPool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Pyramidal-Reservoir-Graph-Neural-Networks&theme=calm&v=2)](https://github.com/FilippoMB/Pyramidal-Reservoir-Graph-Neural-Networks)
+
 
 
 ### Time series
@@ -50,7 +50,4 @@
 ### Other
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Recognition-of-polar-lows-in-Sentinel-1-SAR-images-with-deep-learning&theme=calm&v=2)](https://github.com/FilippoMB/Recognition-of-polar-lows-in-Sentinel-1-SAR-images-with-deep-learning)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Detecting-and-interpreting-faults-in-vulnerable-power-grids-with-machine-learning&theme=calm&v=3)](https://github.com/FilippoMB/Detecting-and-interpreting-faults-in-vulnerable-power-grids-with-machine-learning)
-
----
-
-![Filippo's GitHub stats](https://github-readme-stats.vercel.app/api?username=filippomb&show_icons=true&theme=calm&v=2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Variational-Graph-Auto-encoders-Tensorflow-2-Spektral-&theme=calm&v=1)](https://github.com/FilippoMB/Variational-Graph-Auto-encoders-Tensorflow-2-Spektral-)
