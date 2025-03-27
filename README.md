@@ -31,11 +31,14 @@
 ### Graph Neural Networks
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling&theme=calm&v=2)](https://github.com/FilippoMB/Spectral-Clustering-with-Graph-Neural-Networks-for-Graph-Pooling)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Simplifying-Clustering-with-Graph-Neural-Networks&theme=calm&v=2)](https://github.com/FilippoMB/Simplifying-Clustering-with-Graph-Neural-Networks)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Total-variation-graph-neural-networks&theme=calm&v=2)](https://github.com/FilippoMB/Total-variation-graph-neural-networks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Total-variation-graph-neural-networks&theme=calm&v=3)](https://github.com/FilippoMB/Total-variation-graph-neural-networks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=The-expressive-power-of-pooling-in-GNNs&theme=calm&v=2)](https://github.com/FilippoMB/The-expressive-power-of-pooling-in-GNNs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGMLGroup&repo=Bayesian-Nonparametric-Graph-Pooling&theme=calm&v=2)](https://github.com/NGMLGroup/Bayesian-Nonparametric-Graph-Pooling)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGMLGroup&repo=MaxCutPool&theme=calm&v=1)](https://github.com/NGMLGroup/MaxCutPool)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Pyramidal-Reservoir-Graph-Neural-Networks&theme=calm&v=2)](https://github.com/FilippoMB/Pyramidal-Reservoir-Graph-Neural-Networks)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielegrattarola&repo=decimation-pooling&theme=calm&v=2)](https://github.com/danielegrattarola/decimation-pooling)
+
+
 
 
 
