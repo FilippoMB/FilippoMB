@@ -21,7 +21,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Physics-Informed-Neural-Networks-tutorial&theme=calm&v=2)](https://github.com/FilippoMB/Physics-Informed-Neural-Networks-tutorial)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Diffusion_models_tutorial&theme=calm&v=2)](https://github.com/FilippoMB/Diffusion_models_tutorial)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Tutorial_GNN_explainability&theme=calm&v=2)](https://github.com/FilippoMB/Tutorial_GNN_explainability)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=cross-validation-tutorial&theme=calm&v=2)](https://github.com/FilippoMB/cross-validation-tutorial)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=cross-validation-tutorial&theme=calm&v=0)](https://github.com/FilippoMB/cross-validation-tutorial)
 
 ## 📊 Datasets
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Benchmark_dataset_for_graph_classification&theme=calm&v=2)](https://github.com/FilippoMB/Benchmark_dataset_for_graph_classification)
