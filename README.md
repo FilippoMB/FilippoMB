@@ -14,6 +14,7 @@
 ## 📚 Libraries
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Time-series-classification-and-clustering-with-Reservoir-Computing&theme=calm)](https://github.com/FilippoMB/Time-series-classification-and-clustering-with-Reservoir-Computing)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tgp-team&repo=torch-geometric-pool&theme=calm)](https://github.com/tgp-team/torch-geometric-pool)
 
 ## 👨‍🏫 Courses and tutorials
 
