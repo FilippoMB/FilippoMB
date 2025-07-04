@@ -3,11 +3,11 @@
 ## Hi there 👋
 
 - 🧑🏽‍🦱 I'm [Filippo Maria Bianchi](https://sites.google.com/view/filippombianchi/home)
-- 🇮🇹 I'm Italian but I live in Norway 🇳🇴
+- 🇮🇹 I'm Italian, but I live in Norway 🇳🇴
 - 🎓 I'm an associate professor at UiT the Arctic University of Norway
 - 🔬 I do research in ML for time series and graphs
 - 🌍 I also work on remote sensing applications
-- 🔓 I mostly work with Python and I try to open-source all my work
+- 🔓 I mostly work with Python, and I try to open-source all my work
 
 ---
 
@@ -39,10 +39,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGMLGroup&repo=MaxCutPool&theme=calm&v=1)](https://github.com/NGMLGroup/MaxCutPool)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Pyramidal-Reservoir-Graph-Neural-Networks&theme=calm&v=2)](https://github.com/FilippoMB/Pyramidal-Reservoir-Graph-Neural-Networks)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danielegrattarola&repo=decimation-pooling&theme=calm&v=2)](https://github.com/danielegrattarola/decimation-pooling)
-
-
-
-
 
 ### Time series
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Ensemble-Conformalized-Quantile-Regression&theme=calm&v=2)](https://github.com/FilippoMB/Ensemble-Conformalized-Quantile-Regression)
