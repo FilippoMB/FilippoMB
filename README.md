@@ -4,10 +4,12 @@
 
 - 🧑🏽‍🦱 I'm [Filippo Maria Bianchi](https://sites.google.com/view/filippombianchi/home)
 - 🇮🇹 I'm Italian, but I live in Norway 🇳🇴
-- 🎓 I'm an associate professor at UiT the Arctic University of Norway
+- 👨‍🏫 I'm a professor at UiT the Arctic University of Norway
 - 🔬 I do research in ML for time series and graphs
 - 🌍 I also work on remote sensing applications
-- 🔓 I mostly work with Python, and I try to open-source all my work
+- 🔓 I mostly work with Python, and I like to open-source all my work
+
+For more information about our latest work, check the [Northernmost Graph Machine Learning Group](https://ngmlgroup.github.io/) page!
 
 ---
 
@@ -16,7 +18,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Time-series-classification-and-clustering-with-Reservoir-Computing&theme=calm)](https://github.com/FilippoMB/Time-series-classification-and-clustering-with-Reservoir-Computing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tgp-team&repo=torch-geometric-pool&theme=calm&v=0)](https://github.com/tgp-team/torch-geometric-pool)
 
-## 👨‍🏫 Courses and tutorials
+## 🎓 Courses and tutorials
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=python-time-series-handbook&theme=calm&v=1)](https://github.com/FilippoMB/python-time-series-handbook)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Physics-Informed-Neural-Networks-tutorial&theme=calm&v=2)](https://github.com/FilippoMB/Physics-Informed-Neural-Networks-tutorial)
@@ -47,6 +49,10 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Learning-representations-for-multivariate-time-series-with-missing-data&theme=calm&v=1)](https://github.com/FilippoMB/Learning-representations-for-multivariate-time-series-with-missing-data)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Deep-Kernelized-Auto-Encoder-with-Time-series-Cluster-Kernel&theme=calm&v=3)](https://github.com/FilippoMB/Deep-Kernelized-Auto-Encoder-with-Time-series-Cluster-Kernel)
 
+### Spatio-temporal GNNs
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGMLGroup&repo=Time-Series-Clustering-with-GNNs&theme=calm&v=0)](https://github.com/NGMLGroup/Time-Series-Clustering-with-GNNs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NGMLGroup&repo=Koopman-TGNN-Interpretability&theme=calm&v=0)](https://github.com/NGMLGroup/Koopman-TGNN-Interpretability)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=marshka&repo=hdtts&theme=calm&v=0)](https://github.com/marshka/hdtts)
 
 ### Other
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=filippomb&repo=Recognition-of-polar-lows-in-Sentinel-1-SAR-images-with-deep-learning&theme=calm&v=2)](https://github.com/FilippoMB/Recognition-of-polar-lows-in-Sentinel-1-SAR-images-with-deep-learning)
