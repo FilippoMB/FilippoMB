@@ -1,4 +1,4 @@
-<p align="center"><a href="https://sites.google.com/view/filippombianchi/home"><img width="100%" alt="Hello, I'm Filippo. I do ML for time series and graphs!" src="./assets/stats.gif" /></a></p>
+<p align="center"><a href="https://sites.google.com/view/filippombianchi/home"><img width="80%" alt="Hello, I'm Filippo. I do ML for time series and graphs!" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" /></a></p>
 
 ## Hi there 👋
 
